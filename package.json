@@ -1,0 +1,48 @@
+{
+  "name": "mei-erp-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@hookform/resolvers": "^3.3.1",
+    "@popmotion/popcorn": "^0.4.4",
+    "@types/node": "20.5.0",
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "chart.js": "^4.4.0",
+    "classnames": "^2.3.2",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.15",
+    "faker": "^6.6.6",
+    "framer-motion": "^10.16.4",
+    "lodash": "^4.17.21",
+    "lodash-move": "^1.1.1",
+    "moment": "^2.29.4",
+    "next": "13.4.15",
+    "nookies": "^2.5.2",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.46.1",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "react-intersection-observer": "^9.5.2",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@types/lodash": "^4.14.198",
+    "@types/react-scroll": "^1.8.7"
+  }
+}
